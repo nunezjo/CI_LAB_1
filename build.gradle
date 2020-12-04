@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.fredericks'
+group 'org.nunez'
 version '1.0-SNAPSHOT'
 
 repositories {
